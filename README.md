@@ -202,4 +202,6 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
+![10](https://user-images.githubusercontent.com/56244029/118209582-14f93280-b493-11eb-904e-7a4ec8273f66.jpg)
+
 
